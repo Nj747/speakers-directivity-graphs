@@ -6,7 +6,7 @@
 
 ✔ Polar graphs
 
-✔ Traditional directivity graph
+✔ Contour graph
 
 ### Warnings
 
@@ -23,7 +23,7 @@ Using `polar_graph.py` you will be able to achieve graphs like this:
 
 ![Alt Text](https://github.com/Nj747/speakers-directivity-graphs/blob/main/graphs/250-2k-16k.png)
 
-## Traditional Directivity Graph
-Using `directivity_graph.py` you will be able to achieve graphs like this:
+## Contour Graph
+Using `directivity_graph.py` you will be able to achieve a graph like this:
 
 ![Alt Text](https://github.com/Nj747/speakers-directivity-graphs/blob/main/graphs/directivity-normalize.png)

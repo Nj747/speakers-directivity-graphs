@@ -25,4 +25,5 @@ Using `polar_graph.py` you will be able to achieve graphs like this:
 
 ## Traditional Directivity Graph
 Using `directivity_graph.py` you will be able to achieve graphs like this:
+
 ![Alt Text](https://github.com/Nj747/speakers-directivity-graphs/blob/main/graphs/directivity-normalize.png)

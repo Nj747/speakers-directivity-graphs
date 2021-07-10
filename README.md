@@ -1,6 +1,11 @@
 # Speaker Directivity Graphs
 
-### Content
+## Dependencies
+- Python 3.8
+- Matplotlib
+- Numpy
+
+## Content
 
 ✔ Data used for testing (`.txt` files)
 
@@ -8,7 +13,7 @@
 
 ✔ Contour graph
 
-### Warnings
+## Warnings
 
 ⚠ All data were collected from a subwoofer
 
